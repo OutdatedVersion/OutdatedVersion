@@ -16,13 +16,16 @@ Some assorted work I'm happy about..
 - Validate [`.git-blame-ignore-revs`](https://git-scm.com/docs/git-blame#Documentation/git-blame.txt---ignore-revs-fileltfilegt) files [git-blame-ignore-revs-linter](https://github.com/OutdatedVersion/git-blame-ignore-revs-linter)
 - Load `.env` into shell [export-dotenv](https://github.com/OutdatedVersion/export-dotenv)
 - gRPC x NATS baed service mesh [moleculer-grpc-bridge](https://github.com/OutdatedVersion/moleculer-grpc-bridge)
+- View Kubernetes secrets [kubesecret](https://github.com/OutdatedVersion/kubesecret)
 
 **Or things just for fun:**
 
 - Load JavaScript packages from a Minecraft book 📖 [minecraft-package-loader](https://github.com/OutdatedVersion/minecraft-package-loader)
+- Listen to Apex Legends sound quips in an iOS app [apex-legends-soundboard](https://github.com/OutdatedVersion/apex-legends-soundboard)
 - Purty lighting hardware [the-button](https://github.com/OutdatedVersion/the-button)
 - Cloudflare Workers x Minecraft server list [minecraft-server-list-ping-cloudflare-worker](https://github.com/OutdatedVersion/minecraft-server-list-ping-cloudflare-worker)
 - Home network port forwarding but less safe [unifi-port-forwarding-tool](https://github.com/OutdatedVersion/unifi-port-forwarding-tool)
+- Share messages just in links [silly-message-sharing](https://github.com/OutdatedVersion/silly-message-sharing)
 
 <!--
 **OutdatedVersion/OutdatedVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
