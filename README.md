@@ -9,7 +9,7 @@ Some assorted work I'm happy about..
 - Visualize a service mesh [minecraft-moleculer-visualizer](https://github.com/OutdatedVersion/minecraft-moleculer-visualizer)
 - Visualize sorting algorithms [minecraft-sorting-visualization](https://github.com/OutdatedVersion/minecraft-sorting-visualization)
 
-**Developer/infra tooling:**
+**Developer/infrastructure tooling:**
 
 - Validate APIs with Cloudflare Workers/Pages [cloudflare-request-shadowing](https://github.com/OutdatedVersion/cloudflare-request-shadowing)
 - Debug opaque GitHub Actions secrets [github-secrets-viewer-action](https://github.com/OutdatedVersion/github-secrets-viewer-action)
