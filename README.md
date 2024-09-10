@@ -4,10 +4,10 @@ Some assorted work I'm happy about..
 
 **Visualizations, usually in Minecraft:**
 
-- Visualize distributed systems patterns [minecraft-distributed-systems-visualizer](https://github.com/OutdatedVersion/minecraft-distributed-systems-visualizer)
 - Visualize Kubernetes pods [minecraft-kubernetes-chaos](https://github.com/OutdatedVersion/minecraft-kubernetes-chaos)
 - Visualize a service mesh [minecraft-moleculer-visualizer](https://github.com/OutdatedVersion/minecraft-moleculer-visualizer)
 - Visualize sorting algorithms [minecraft-sorting-visualization](https://github.com/OutdatedVersion/minecraft-sorting-visualization)
+- Visualize distributed systems patterns [minecraft-distributed-systems-visualizer](https://github.com/OutdatedVersion/minecraft-distributed-systems-visualizer)
 
 **Developer/infrastructure tooling:**
 
